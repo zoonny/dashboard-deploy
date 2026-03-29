@@ -9,4 +9,4 @@ resources:
 
 images:
   - name: ghcr.io/zoonny/dashboard
-    newTag: 5eeb759b571ae59e5aebfb04a29aed5ea4171dad
+    newTag: 95a8e95f9acba8d88a630a51404d203504029f37

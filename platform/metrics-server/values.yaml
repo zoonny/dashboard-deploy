@@ -1,4 +1,5 @@
-args: []
+args:
+  - --kubelet-insecure-tls
 resources:
   requests:
     cpu: 100m
